@@ -32,7 +32,7 @@ bool IsWindowVisibleByName(const char* windowName) {
 
 int main() {
     std::string dllFilePath;
-    std::cout << "welcome to skibiditoilet injector | github.com/v-xa/skibiditoilet.injector";
+    std::cout << "welcome to skibiditoilet injector | github.com/v-xa/skibiditoilet.injector" << std::endl;
     std::cout << "skibiditoilet injector | path to dll (THE NAME NEEDS TO BE amdxx64.dll): ";
     std::getline(std::cin, dllFilePath);
     
