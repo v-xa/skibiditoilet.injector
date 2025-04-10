@@ -1,8 +1,2 @@
-# skibiditoilet.injector
-roblox injector (WILL BE PATCHED SOON)
-
-
-skidded from .gg/robloxoffsets
-
-
+# patched [4/10/25]
 .gg/getcrystal
